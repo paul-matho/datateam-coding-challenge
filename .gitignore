@@ -1,0 +1,4 @@
+# ignore the following directories:
+/logs/*
+/.idea/*
+/__pycache__/*
